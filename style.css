@@ -1,0 +1,58 @@
+.m3{
+    background-color: aqua;
+}
+.h2{
+    color: green;
+    background-color: yellow;
+}
+.m5{
+    color: green;
+}
+#salom{
+    color: green;
+}
+h4{
+    background-color: yellow;
+    text-align: center;
+}
+h3{
+    color: green ;
+    text-align: center;
+    background-color: yellow;
+}
+iframe{
+    background-color: black;
+    display: block;
+    margin: auto;
+  
+}
+textare{
+    width: auto;
+}
+#sa{
+    width: 1300px;
+}
+table{
+    border-collapse: collapse;
+
+}
+.m4{
+color: white;
+background-color: green;
+}
+  th{
+    color: white;
+    background-color: rgb(8, 8, 112);
+  }
+    .m9{
+        color: white;
+        background-color: red;
+    }
+    td{
+        color: white;
+        background-color: black;
+    }
+    .mu{
+        background-color: red;
+        color: white;
+    }
